@@ -1,0 +1,209 @@
+.yved{
+    position: fixed;
+    left: 20px;
+    bottom: 60px;
+    width: 300px;
+    vertical-align: middle;
+    color: #666;
+    background: #fff;
+    border: 3px solid #f6adcd;
+    padding: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    display: none;
+    text-align: center;
+    z-index: 987654;
+}
+.yvedi{
+    float: left;
+    width: 50px!important;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.yvedt{
+    width: 270px;
+    line-height: normal;
+    display: inline-block;
+    vertical-align: middle;
+}
+.yvedf1{
+    background-color: #FFF;
+}
+.yvedf2{
+	background-color: #FFF;
+}
+.yvedvt{
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.beautypress-welcome-container h2 {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-family: inherit;
+    font-weight: 600;
+}
+.beautypress-welcome-container h3 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+.beautypress-new-about-text-gruop .beautypress-sub-heading.beautypress-watermark-title h2 {
+    font-size: 3em;
+}
+.beautypress-new-about-text-gruop ul {
+    margin-top: 25px;
+    list-style: circle;
+    font-size: 18px;
+}
+section.beautypress-about-section .beautypress-section-headinig {
+    padding: 0px 0px 30px 0px;
+}
+section.beautypress-about-section {
+    background: #eef2f5;
+    padding: 60px 0px;
+}
+.beautypress-version-2.beautypress-logo:after {
+    position: absolute;
+    content: "";
+    top: 100%;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-top: none;
+    filter: drop-shadow(0px 8px 21px rgba(0, 0, 0, 0.1));
+    z-index: -2;
+}
+.beautypress-border.beautypress-version-3:before, .beautypress-border.beautypress-version-3:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    height: 0px;
+    width: 0px;
+    border-right: none;
+}
+.beautypress-booking-text-wraper .beautypress-border.beautypress-version-3 {
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+.beautypress-booking-text {
+    height: 100%;
+    padding: 55px 0px;
+    width: 100%;
+    background: #ffffffba;
+    text-align: center;
+}
+.beautypress-booking-text h2 {
+    margin: 0 0 28px;
+    color: var(--color-purple);
+    font-weight: 500;
+    text-transform: none;
+    font-size: 1.429em;
+    font-weight: bold;
+}
+.beautypress-booking-text h3 {
+    margin: 0 0 40px;
+    font-size: 1.43em;
+    font-weight: 600;
+    text-transform: none;
+    color: var(--color-semi-black);
+}
+.beautypress-pricing-table-section {
+    position: relative;
+    background-attachment: fixed;
+    background: #eef2f5;
+}
+section.beautypress-pricing-table-section .beautypress-section-headinig {
+    padding: 60px;
+}
+section.beautypress-pricing-table-section .beautypress-section-headinig h3 {
+    text-transform: none;
+}
+.beautypress-section-headinig {
+    padding: 60px;
+    text-align: center;
+}
+.beautypress-tab .beautypress-spilit-container {
+    display: block;
+    height: 100%;
+}
+.productTextWrap {
+    padding: 30px;
+}
+.productTextWrap h3 {
+    text-align: center;
+    color: #ec5598;
+    margin-bottom: 30px;
+}
+.productTextWrap .beautypress-btn-wraper {
+    text-align: center;
+    margin-top: 30px;
+}
+.beautypress-iocn-btn.full-round-btn {
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    box-shadow: var(--primary-shadow);
+    color: var(--color-white);
+    font-size: 1.5em;
+    background-color: var(--color-semi-black);
+    position: relative;
+    transition: all .9s ease;
+}
+.beautypress-beauty-product-footer {
+    height: 200px;
+    overflow: hidden;
+}
+.beautypress-beauty-product-footer:hover {
+    height: auto;
+    overflow: visible;
+}
+.beautypress-single-beauty-product {
+    background-color: var(--color-white);
+    border: 10px solid #F7F7F7;
+    position: relative;
+    padding: 15px 15px 60px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.beautypress-beauty-product-footer h3 {
+    margin: 0 0 15px;
+    color: var(--color-purple);
+    text-transform: none;
+    font-size: 1.6em;
+    font-weight: 500;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+.beautypress-testimonial-section {
+    padding: 60px 0;
+}
+.beautypress-single-testimonial {
+    width: 100%;
+}
+.beautypress-footer-logo {
+    text-align: center;
+    margin: 0 0 60px;
+}
+.beautypress-footer-content {
+    position: relative;
+    z-index: 1;
+    padding: 0 0 60px;
+}
+.beautypress-call-to-action-content {
+    text-align: center;
+    padding: 60px 0;
+}
